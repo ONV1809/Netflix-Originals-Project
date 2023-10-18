@@ -1,0 +1,23 @@
+Please ensure that you have the latest versions of the following packages:
+
+os
+requests
+BeautifulSoup
+pandas
+numpy
+html5lib
+re
+time
+ast
+seaborn
+matplotlib.pyplot
+collections
+nltk
+textblob
+scipy
+sklearn
+xgboost
+json
+fuzzywuzzy
+IPython
+ipywidgets
